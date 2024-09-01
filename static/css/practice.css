@@ -1,0 +1,29 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    text-align: center;
+}
+.key{
+    margin: 5px;
+    border: 2px solid #555;
+    font-size: larger;
+    font-weight: bolder;
+    padding: 10px 18px;
+    border-radius: 10px;
+    background-color: #fdd;
+    /* background-color: #8f8; */
+    /* background-color: #f88; */
+}
+
+button{
+    padding: 8px;
+    margin: 14px;
+    font-size: large;
+    border-radius: 8px;
+}
+
+button:hover{
+    border-color:#999;
+    border-width: 2px;
+}

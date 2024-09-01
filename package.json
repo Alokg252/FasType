@@ -1,0 +1,17 @@
+{
+  "name": "fastyping",
+  "version": "1.0.0",
+  "description": "hone your typing skills",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "alok gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.0.1"
+  },
+  "dependencies": {
+    "fastyping": "file:"
+  }
+}
